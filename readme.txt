@@ -1,1 +1,1 @@
-Floppaware without login, will add login soon but for now it is ok.
+login removed, the person that found the github before shouldnt find it now.
